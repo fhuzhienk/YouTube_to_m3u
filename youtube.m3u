@@ -156,7 +156,7 @@ https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Times Now
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762414020/ei/ZPkLaZzqOuaCy_sPpI3UsQ4/ip/52.159.246.8/id/jBtso3WADHs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634279/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5T8Zwz2OPHswk7BYHVmDbamguivLpv-cY5YKO_72W1O9k7P_JbgtYCLOzZMwO7my1ayHDieXxRi/spc/6b0G_NkLKRNltPcZMYOTFAiWKE1VvqAbQ3SZybvQGG0y2CCg6mHTbTiaSqBA4cynpaQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOSeX5469c6UgUfWJxURVa9ijaUoC3xfXgJEaOZGA5VjAiEAyFA4n7E6cLb1ttHqbv_Y1A8ckH_moaWjxFPmjDOdPPw%3D/file/index.m3u8
+https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -210,13 +210,13 @@ https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", The Good Life Radio
-https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762422470/ei/ZhoMaerTON3BsfIP_7Hh6AI/ip/172.184.219.211/id/36YnV9STBqc.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TXLAAUQFCSKw2sFdNXSdrAsxRbNoacQ7aBXaKomntYOZId1dXq2KF-kiwlkyOtqVUn2deWp8XZ/spc/6b0G_JWkqqn7Xmj3bPxCkq8e6z9-3hViV7sP1en70nv_kusuP_7M2cbPJEfme62EePw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfk3KJrSmjKxTrAJq0bP4X5hHsqdH22xsslob_U0OiIICIQC7iQA_MhccZ3e3sC1abkeJ5S87Etl9B9VwqCg4JVtloQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chill Out Music Mixe
-https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762422474/ei/ahoMaYPgFPmYsfIPh9_MoAo/ip/172.184.219.211/id/m52ynxt1mOo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634281/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Se4IgOYL5kKXnzA3euV4LQVOb-k2cp3VfIAvOXjRF4ZsiPY6WT1m9YTGUnc9Mv8ZLhv2_PpH-S/spc/6b0G_PN6OlJQJxB0-ZZxrcCIvrYsQhwb4CUJaJi2CV4eoQefQn8U1AQh3ELSXMbMkjA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgd-uz7koTy1wsAOgeUs1sQgYkBqZzK1h5hikTszTIn1sCIQC-ysk1TaRyNjoFgeoN_kMbnWbdoDXJyQix3LJ1nCK1tA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chillout Lounge
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
