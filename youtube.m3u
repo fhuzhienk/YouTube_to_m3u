@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chill Out Music Mixe
-https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767693744/ei/UIlcaaTPJvSLlu8P85LCiQo/ip/52.161.75.162/id/m52ynxt1mOo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3ANA8LUq0s3FJ94id8NKBK3YvrFmphceI16qYAvql-s0RYg5IXTY8VCXYWw_rqgjBfIKgPjaHWN/spc/wH4Qq8ZomifDDMWztnL7ziU9jjGb8xRnrQ0WVA0WFGg2zmYNd9XjwY0TSdvMQ9z-gfI/vprv/1/go/1/ns/Erkmm83fIwOE3AfbX_pB5KwR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/jn7E1-qC546u_-Xv8g/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXMdJQ0EG2m7-1SWoOGgjJCG_9prR83ZIgXncwDx20O4CIQCxdukZ1aGn0C57LkxQE0WfGq4FQPthUSYn5oZA5AMeQg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chillout Lounge
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
