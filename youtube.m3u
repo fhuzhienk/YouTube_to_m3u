@@ -171,7 +171,7 @@ https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN2
-https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772681714/ei/kqWoafS7DsSGybgP662u2Ac/ip/52.176.35.118/id/q-BvtDrTnxc.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-z0xLHNksZCHq0uFCUw129B_0HK1jrZyT1n3IA2sUPKRSyupKu3ES34J21_QOufKNKEtkmjN32u/spc/6dlaFLeLdjGXFN6oWfpFU9fTLc9g0ozjbz_cvfFl1tyUlAGBv5snZUoVgxanphUzAlsv4g/vprv/1/go/1/ns/cgc52u2guz13o9o_PAvoA4cT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565682%2C51580968%2C51791334/dover/11/n/YyQHZm_Hr3IrCJhZ6qCO/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgc37z_RvImKBOUttlHA3Zg4ilmKHgEgXLqMJICAnwmeQCIQC_a-xOL7_rpHHQfUA5n5r8-0_6AnMonoKLYEoyCiRuJQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Punjabi" tvg-logo="" tvg-id="", Shri bhucho sahib live
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
