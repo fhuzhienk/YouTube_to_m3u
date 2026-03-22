@@ -210,7 +210,7 @@ https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", The Good Life Radio
-https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774176781/ei/rXW_acLVKofnir4PzbLwSQ/ip/132.196.80.215/id/36YnV9STBqc.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-y4f_rkVr_le9zN9T8yXR6X4vtxtlqu4l7YPFCBoUo4-91zsGNzILe9drxFtdODxiPQqPvQbptO/spc/6dlaFNoErOk-Dr4KDCSXrl7HJVrZRIBA-74GHK0oTUKf6VrsEjcU75rI6ngIIG4BCdhh9w/vprv/1/go/1/ns/uN947k8Fm1WUUhYwtRxAHGMT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/LQeg-OIkwhAQOW_g/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAJYPGYKIY2aJ2hXC9dLnMe9AtCDF0GEGuy_J02_iksAqAiAHjhDmBft7po2TlIUM7YUOwQRAP1nTLkW09nTt5mFDIg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/fhuzhienk/YouTube_to_m3u/main/assets/moose_na.m3u
